@@ -128,7 +128,7 @@ export function Coach() {
               </span>
             </div>
             <h3 className="font-display text-[clamp(28px,3.2vw,46px)] leading-[1.1] tracking-tight font-medium mb-6">
-              Ship what people actually want &mdash; in under{' '}
+              Ship what people actually want, in under{' '}
               <em className="italic text-flame">thirty days.</em>
             </h3>
             <p className="text-cream/80 text-[16px] sm:text-[17px] leading-relaxed max-w-[52ch] mb-8">

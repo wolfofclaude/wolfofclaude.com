@@ -66,8 +66,8 @@ export function Stack() {
           data-reveal
         >
           Every tool below is one I actually open every day. No bundles, no
-          sponsors I don&rsquo;t use. Pick one to follow the link &mdash; if
-          you sign up through it, the wolf gets a small bowl of kibble.
+          sponsors I don&rsquo;t use. Pick one to follow the link. If you sign
+          up through it, the wolf gets a small bowl of kibble.
         </p>
       </div>
 

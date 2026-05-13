@@ -42,7 +42,7 @@ export function Numbers() {
           data-reveal
         >
           Most of these were under a hundred a year ago. The compounding rule
-          works on attention too &mdash;{' '}
+          works on attention too,{' '}
           <em className="italic text-flame font-medium">
             if you build loud enough
           </em>

@@ -126,7 +126,7 @@ export function Work() {
               Onchain, but make it <em className="italic text-ember">fast.</em>
             </>
           }
-          desc="Why I'm building consumer Web3 with AI agents — and what most VCs missed about the timing."
+          desc="Why I'm building consumer Web3 with AI agents, and what most VCs missed about the timing."
           visual={
             <div className="absolute inset-0 bg-bone grid place-items-center">
               <span className="font-display italic font-medium text-[clamp(120px,12vw,180px)] leading-none text-ember/90 tracking-tight">
@@ -160,7 +160,7 @@ export function Work() {
           kind="Lifestyle"
           duration="5 min"
           title="A founder day that doesn't look like LinkedIn."
-          desc="Espresso. Code. Sun. Ship. The schedule I actually keep — not the one I post."
+          desc="Espresso. Code. Sun. Ship. The schedule I actually keep. Not the one I post."
           visual={
             <div className="absolute inset-0 bg-gradient-to-br from-cream via-bone to-ember/40">
               <div className="absolute inset-0 bg-[radial-gradient(circle_at_75%_30%,rgba(184,64,10,0.35),transparent_55%)]" />
@@ -181,9 +181,6 @@ export function Work() {
           visual={
             <div className="absolute inset-0 bg-gradient-to-b from-cream to-bone grid place-items-center">
               <div className="w-2/3 h-px bg-ink/30" />
-              <span className="absolute font-display italic font-medium text-[clamp(64px,7vw,96px)] leading-none text-ink/15 tracking-tight">
-                &mdash;
-              </span>
             </div>
           }
         />

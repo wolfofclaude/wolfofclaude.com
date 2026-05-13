@@ -13,8 +13,7 @@ export function Manifesto() {
         <em className="italic text-ember font-semibold">
           AI is the permission slip.
         </em>{' '}
-        So I build &mdash; loud, daily, in front of everyone &mdash; and I show
-        you how.
+        So I build loud, daily, in front of everyone. And I show you how.
       </h2>
     </section>
   );

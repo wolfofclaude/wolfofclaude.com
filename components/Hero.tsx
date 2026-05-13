@@ -33,9 +33,9 @@ export function Hero() {
         </h1>
 
         <p className="text-[clamp(15px,min(1.3vw,2vh),20px)] text-ink/85 leading-[1.55] max-w-[54ch] mb-7 sm:mb-9">
-          I build apps in public &mdash; with Claude as the second brain
-          &mdash; at a speed that breaks the usual rules. Apps, Web3, founder
-          life. Watch the build, read the system, or come build with me.
+          I build apps in public, with Claude as the second brain, at a speed
+          that breaks the usual rules. Apps, Web3, founder life. Watch the
+          build, read the system, or come build with me.
         </p>
 
         <div className="flex flex-wrap gap-2 sm:gap-2.5">

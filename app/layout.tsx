@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   metadataBase: new URL(
     process.env.NEXT_PUBLIC_SITE_URL ?? 'https://wolfofclaude.com',
   ),
-  title: 'Wolf of Claude — Build loud. Ship faster than they can copy.',
+  title: 'Wolf of Claude · Build loud. Ship faster than they can copy.',
   description:
     'Apps, Web3, and the kind of velocity that gets you flagged for cheating. Building with AI in public. Watch the build, or learn the system.',
   openGraph: {
